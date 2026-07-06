@@ -26,7 +26,7 @@ Since it's made only using Java native library, only java JRE is needed which is
 
 ### Installing
 
-The release contains both a portable and installer version. Both with identical content.
+The [release](https://github.com/MrMethor/tboi-remake/releases/tag/Runnable) contains both a portable and installer version. Both with identical content.
 
 ### Executing
 
@@ -44,7 +44,7 @@ Java JDK 17 is needed to build the project.
 
 ### Building
 
-Open the project in IntelliJ, set tboir/src/Main.java as the run configuration if not already set, and click Run. Or any equivalent approach using other tools.
+Open the project in IntelliJ, set src/tboir/Main.java as the run configuration if not already set, and click Run. Or any equivalent approach using other tools.
 
 ## Project History
 
@@ -53,3 +53,5 @@ This is the second of three tboi clone projects.
 * The second being this project
 * The [third](https://github.com/MrMethor/tboi-modular), a modular version with separated Engine, CLI and UI in C#. 
 
+## License
+[MIT](https://github.com/MrMethor/tboi-remake/blob/master/LICENSE)
