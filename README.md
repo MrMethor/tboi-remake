@@ -15,36 +15,15 @@ Made for educational purposes as a second attempt to recreate the popular game i
 * Responsive 2D movement, physics and combat
 
 ## Running
-
-### Requirements
-
-Windows 10 is the targeted platform. Might or might not work with newer or older versions.
-
-### Dependencies
-
-Since it's made only using Java native library, only java JRE is needed which is already bundled with the release version. So no need for external downloads.
-
-### Installing
-
-The [release](https://github.com/MrMethor/tboi-remake/releases/tag/Runnable) contains both a portable and installer version. Both with identical content.
-
-### Executing
-
-To run the game open either the reburn.exe file or a system/desktop shortcut if installed using the installer.
+* Windows 10 is the targeted platform. Might or might not work with newer or older versions.
+* Since it's made only using Java native library, only java JRE is needed which is already bundled with the release version. So no need for external downloads.
+* The [release](https://github.com/MrMethor/tboi-remake/releases/tag/Runnable) contains both a portable and installer version. Both with identical content.
+* To run the game open either the reburn.exe file or a system/desktop shortcut if installed using the installer.
 
 ## Building
-
-### Requirements
-
-Can be built using any standard Java IDE. No external build tool required — compiled via IntelliJ's built-in build system.
-
-### Dependencies
-
-Java JDK 17 is needed to build the project.
-
-### Building
-
-Open the project in IntelliJ, set src/tboir/Main.java as the run configuration if not already set, and click Run. Or any equivalent approach using other tools.
+* Can be built using any standard Java IDE. No external build tool required — compiled via IntelliJ's built-in build system.
+* Java JDK 17 is needed to build the project.
+* Open the project in IntelliJ, set src/tboir/Main.java as the run configuration if not already set, and click Run. Or any equivalent approach using other tools.
 
 ## Project History
 
