@@ -6,6 +6,7 @@ A clone of the game The Binding Of Isaac.
 
 Made for educational purposes as a second attempt to recreate the popular game in Java.
 * Status - COMPLETE
+* [Follow-up project](https://github.com/MrMethor/tboi-modular)
 
 ### Features
 * Random dungeon map generation with few basic room types
@@ -28,7 +29,7 @@ Made for educational purposes as a second attempt to recreate the popular game i
 ## Project History
 
 This is the second of three tboi clone projects.
-* The [first](https://github.com/MrMethor/tboi-basic), a more basic version of this one also made in java. 
+* The [first](https://github.com/MrMethor/tboi-basic), a more basic version also made in java. 
 * The second being this project
 * The [third](https://github.com/MrMethor/tboi-modular), a modular version with separated Engine, CLI and UI in C#. 
 
