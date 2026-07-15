@@ -1,9 +1,8 @@
 # The Burning Of Isaac Remake
 
-A clone of the game The Binding Of Isaac.
+A clone of the game [The Binding Of Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
 
 ## Description
-
 Made for educational purposes as a second attempt to recreate the popular game in Java.
 * Status - COMPLETE
 * [Follow-up project](https://github.com/MrMethor/tboi-modular)
@@ -22,16 +21,14 @@ Made for educational purposes as a second attempt to recreate the popular game i
 * To run the game open either the reburn.exe file or a system/desktop shortcut if installed using the installer.
 
 ## Building
-* Can be built using any standard Java IDE. No external build tool required — compiled via IntelliJ's built-in build system.
-* Java JDK 17 is needed to build the project.
-* Open the project in IntelliJ, set src/tboir/Main.java as the run configuration if not already set, and click Run. Or any equivalent approach using other tools.
+* Can be built using any standard Java IDE. No external build tool required — compiled via [IntelliJ](https://www.jetbrains.com/idea/)'s built-in build system.
+* [Java JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) is needed to build the project.
+* Open the project in [IntelliJ](https://www.jetbrains.com/idea/), set src/tboir/Main.java as the run configuration if not already set, and click Run. Or any equivalent approach using other tools.
 
 ## Project History
-
 This is the second of three tboi clone projects.
 * The [first](https://github.com/MrMethor/tboi-basic), a more basic version also made in java. 
 * The second being this project
 * The [third](https://github.com/MrMethor/tboi-modular), a modular version with separated Engine, CLI and UI in C#. 
 
-## License
-[MIT](https://github.com/MrMethor/tboi-remake/blob/master/LICENSE)
+## [License](https://github.com/MrMethor/tboi-remake/blob/master/LICENSE)
