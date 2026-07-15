@@ -1,9 +1,6 @@
 # The Burning Of Isaac Remake
-
-A clone of the game [The Binding Of Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/).
-
 ## Description
-Made for educational purposes as a second attempt to recreate the popular game in Java.
+Second iteretion of [The Binding Of Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) clones.
 * Status - COMPLETE
 * [Follow-up project](https://github.com/MrMethor/tboi-modular)
 
