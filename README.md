@@ -29,6 +29,9 @@ Made for educational purposes as a second attempt to recreate the popular game i
 This is the second of three tboi clone projects.
 * The [first](https://github.com/MrMethor/tboi-basic), a more basic version also made in java. 
 * The second being this project
-* The [third](https://github.com/MrMethor/tboi-modular), a modular version with separated Engine, CLI and UI in C#. 
+* The [third](https://github.com/MrMethor/tboi-modular), a modular version with separated Engine, CLI and UI in C#.
+
+## AI Disclosure
+Generative AI has been used to create most of menu items including buttons and the background.
 
 ## [License](https://github.com/MrMethor/tboi-remake/blob/master/LICENSE)
